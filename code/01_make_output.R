@@ -42,8 +42,3 @@ saveRDS(
   file = here::here("output", "random_numbers5.rds")
 )
 
-
-
-
-
-

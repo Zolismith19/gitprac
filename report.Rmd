@@ -1,5 +1,5 @@
 ---
-title: Three sets of random numbers
+title: five sets of random numbers
 author: You
 output: html_document
 ---
@@ -34,6 +34,10 @@ random_numbers4 <- readRDS(
 
 #! TO DO: 
 #!   read random_numbers4 from output directory
+random_numbers5 <- readRDS(
+  here::here("output/random_numbers5.rds")
+)
+
 random_numbers5 <- readRDS(
   here::here("output/random_numbers5.rds")
 )
