@@ -44,7 +44,8 @@ Once the files are in the desired location, confirm that *User A* can build the 
 1. Use `git init` to initialize a git repository in your project directory folder
 2. Appropriately use `git status`, `git add`, and `git commit` to create your first commit. The commit should include: 
 	- all contents of the `code` directory
-	- `report.Rmd`
+	- 
+	
 	- `README.md`
 	- `Makefile`
 	- `.gitignore`
